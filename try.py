@@ -10,3 +10,5 @@ print ' '.join([str(x) for x in a])
 if x>5:
 	print 'è maggiore'
 
+x**=x
+print x
